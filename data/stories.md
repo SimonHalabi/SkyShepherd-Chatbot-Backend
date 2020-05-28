@@ -47,3 +47,9 @@
 ## story_thankyou
 * thanks
     - utter_noworries
+
+## New Story
+
+* greet
+    - utter_greeting2
+* drone_speed

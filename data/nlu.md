@@ -291,6 +291,9 @@
 - extremely sad
 - so sad
 
+## intent:drone_speed
+- What speed is my drone traveling at?
+
 ## synonym:9wzi-peqs
 - home health agenc
 - home health agency
